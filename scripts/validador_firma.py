@@ -1,4 +1,4 @@
-from extractor_metadatos import extraer_metadatos_pdf
+from scripts.extractor_metadatos import extraer_metadatos_pdf
 from scripts.detector_firma_pdfsig import verificar_firma_pdfsig
 import joblib
 import pandas as pd
