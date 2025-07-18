@@ -1,0 +1,5 @@
+PyPDF2
+pdfminer.six
+pandas
+scikit-learn
+joblib
